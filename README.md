@@ -1,8 +1,10 @@
-# Meu aprendizado com Poo/ Oop
+# Poo / Oop
+
+#Aprendendo Poo / Oop
+
+Este documento é apenas um diario com tudo que aprendi e estou aprendendo sobre Poo (escrito com minhas palavras e pincelada com corretor rsrs...).
 
 ## Referencias
-
-
 
 <table>
  <tr>
@@ -87,3 +89,11 @@
 <ul>
   <li></li>
 </ul>
+
+# Programação Orientada a objeto (POO)
+### O que é?
+Programação Orientada a objeto é um paradigima da programção que se baseia em um conceito de objeto, que é criado apartir de uma classe, ou seja um objeto é uma instancia de uma classe.
+
+# Classes
+### O que é uma classe? 
+Em programação orientada a objetos, uma classe é um modelo ou uma planta que define as características e comportamentos comuns a um grupo de objetos.
