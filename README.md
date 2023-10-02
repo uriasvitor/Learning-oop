@@ -2,7 +2,7 @@ Em construção 🏗️🏗️🏗️
 
 # Poo / Oop
 
-#Aprendendo Poo / Oop
+# Aprendendo Poo / Oop
 
 Este documento é apenas um diario com tudo que aprendi e estou aprendendo sobre Poo (escrito com minhas palavras e pincelada com corretor rsrs...).
 
