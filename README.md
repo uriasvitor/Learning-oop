@@ -96,6 +96,10 @@ Este documento é apenas um diario com tudo que aprendi e estou aprendendo sobre
 ### O que é?
 Programação Orientada a objeto é um paradigima da programção que se baseia em um conceito de objeto, que é criado apartir de uma classe, ou seja um objeto é uma instancia de uma classe.
 
+# Porque usar a programação orientada a objeto?
+#### A programação orientada a objeto ao contrario da programação estruturada que utiliza 3 estruturas basicas, iteracoes (for, foreach etc..), decisão(if, else, etc..) e sequencia, basicamente apenas essas estruturos ja corresponderiam a resolução dos problemas basicos da programação, o que de fato ocorre, porém é preciso de um esforço muito maior para criar um programa mais complexo por exemplo de vendas, estoque, fluxo de dados. A onde a programação orientada a objeto entra? 
+A POO permite que os desenvolvedores modelarem o sistema de forma mais próxima ao mundo real. Objetos no código podem representar entidades reais e suas interações, tornando o código mais intuitivo e fácil de entender, um dos pontos fortes é a reutilização de Código ou seja  objetos podem ser criados para representar entidades genéricas e, em seguida, esses objetos podem ser reutilizados em diferentes partes do programa ou em projetos diferentes fora isso temos Encapsulamento, Herança, Polimorfismo, escalabilidade entre outros que iremos abordar.
+
 # Classes
 ### O que é uma classe? 
-Em programação orientada a objetos, uma classe é um modelo ou uma planta que define as características e comportamentos comuns a um grupo de objetos.
+Em programação orientada a objetos, classe é um modelo ou uma planta que define as características e comportamentos comuns a um grupo de objetos.
